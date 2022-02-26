@@ -1,0 +1,2 @@
+# Local user is hard coded for now
+ansible_user: kevin

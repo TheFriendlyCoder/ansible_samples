@@ -1,0 +1,7 @@
+
+- name: Install Bind
+  apt:
+    name: bind9
+    state: present
+    update_cache: true
+  
