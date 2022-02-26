@@ -1,2 +1,5 @@
 # Local user is hard coded for now
+# TIP: relates to the 'become' password file
+#      referenced in the ansible.cfg file
+# TODO: replace with passwordless sudo
 ansible_user: kevin
